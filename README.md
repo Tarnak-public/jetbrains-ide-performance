@@ -1,4 +1,7 @@
 # jetbrains-ide-performance
+HERE IS ARTICLE IN GENERAL:
+https://scriptedalchemy.medium.com/speeding-up-intellij-webstorm-and-other-jetbrains-products-96a2abe6bf2
+
 High Performance Configuration for Jetbrains IDEs [IntelliJ, WebStorm, etc..]
 
 # Motivation
